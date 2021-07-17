@@ -1,4 +1,4 @@
-# Data-Plotiing
+# Data-Ploting
 
 *Jupyter notebooks with documented code and resources for plotting data*
 
